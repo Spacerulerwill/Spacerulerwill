@@ -5,6 +5,8 @@
 - 🌱 I love **Python** and **Java** and am currently studying **Ruby** and **C++**
   
 - 📫 Contact me at **williamdredding@gmail.com**
+
+   <a href="https://github.com/Spacerulerwill/"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Spacerulerwill?color=236ad3&style=for-the-badge&logo=github&label=Follow"></a>
 <br/><br/><br/><br/>
 <h3 align="left">My Projects In Development:</h3>
 
