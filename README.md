@@ -1,4 +1,24 @@
-<h1 align="center">Hi, I'm William Redding</h1>
+### Hi, I'm William Redding</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### Welcome to my github page! ![](https://visitor-badge.glitch.me/badge?page_id=Spacerulerwill/Spacerulerwill)
+
+I am mostly a backend programmer. I love scripting, automation, data science and solving problems! (And Guitars)
+
+**About me** 
+- 👨🏻‍💻 I am profficient in Python, dabbling in Java and learning C++ and Ruby
+- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/spacerulerwill);
+- 📫 How to reach me: williamdredding@gmail.com;
+
+<h3 align="center">Cool Projects!</h3>
+
+<hr style="border:1px solid gray"> </hr>
+
+<p align="center">
+    <a href="https://github.com/Spacerulerwill/WORDLE"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=WORDLE&theme=dark" width="350"/></a> 
+    <a href="https://github.com/Spacerulerwill/CSGO-Case-Bot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=CSGO-Case-Bot&theme=dark" width="350"/></a>
+    <a href="https://github.com/Spacerulerwill/Algorithms"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=Algorithms&theme=dark" width="350"/></a>
+    <a href="https://github.com/Spacerulerwill/YT-WAV"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=YT-WAV&theme=dark" width="350"/></a>
+</p>                                                                                                                                               
 
 <h3 align="center">Technology Stack</h3>
 
