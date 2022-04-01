@@ -41,7 +41,7 @@ I am mostly a backend programmer. I love scripting, automation, data science and
 <hr style="border:1px solid gray"> </hr>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Spacerulerwill&show_icons=true&theme=gotham" alt="github stats" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Spacerulerwill&show_icons=true&theme=radical" alt="github stats" height="200"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spacerulerwill&theme=radical" height="200"/>
 </p>
 
