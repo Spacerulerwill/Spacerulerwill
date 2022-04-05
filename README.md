@@ -5,7 +5,7 @@
 I am mostly a backend programmer. I love scripting, automation, data science and solving problems! (And Guitars)
 
 **About me** 
-- 👨🏻‍💻 I am proficient in Python, dabbling in Java and learning C++ and Ruby
+- 👨🏻‍💻 I am proficient in Python, dabbling in Java and learning C++, Ruby and Lua
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/spacerulerwill);
 - 📫 How to reach me: williamdredding@gmail.com;
 
