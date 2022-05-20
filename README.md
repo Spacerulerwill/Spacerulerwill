@@ -5,7 +5,7 @@
 I am mostly a backend programmer. I love scripting, automation, data science and solving problems! (And Guitars)
 
 **About me** 
-- 👨🏻‍💻 I am proficient in Python, dabbling in Java and learning C++, Ruby and Lua
+- 👨🏻‍💻 I am proficient in Python and learning C++
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/spacerulerwill);
 - 📫 How to reach me: williamdredding@gmail.com;
 
@@ -16,7 +16,7 @@ I am mostly a backend programmer. I love scripting, automation, data science and
 <p align="center">
     <a href="https://github.com/Spacerulerwill/WORDLE"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=WORDLE&theme=dark" width="350"/></a> 
     <a href="https://github.com/Spacerulerwill/CSGO-Case-Bot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=CSGO-Case-Bot&theme=dark" width="350"/></a>
-    <a href="https://github.com/Spacerulerwill/Algorithms"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=Algorithms&theme=dark" width="350"/></a>
+    <a href="https://github.com/Spacerulerwill/TerminalTables"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=Algorithms&theme=dark" width="350"/></a>
     <a href="https://github.com/Spacerulerwill/YT-WAV"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=YT-WAV&theme=dark" width="350"/></a>
 </p>                                                                                                                                               
 
