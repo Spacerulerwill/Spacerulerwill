@@ -15,9 +15,11 @@ I am mostly a backend programmer. I love scripting, automation, data science and
 
 <p align="center">
     <a href="https://github.com/Spacerulerwill/WORDLE"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=WORDLE&theme=dark" width="350"/></a> 
-    <a href="https://github.com/Spacerulerwill/CSGO-Case-Bot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=CSGO-Case-Bot&theme=dark" width="350"/></a>
+    <a href="https://github.com/Spacerulerwill/Algorithm-Visualiser"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=Algorithm-Visualiser&theme=dark" width="350"/></a>
     <a href="https://github.com/Spacerulerwill/pytermtables"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=pytermtables&theme=dark" width="350"/></a>
     <a href="https://github.com/Spacerulerwill/YT-WAV"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=YT-WAV&theme=dark" width="350"/></a>
+        <a href="https://github.com/Spacerulerwill/Particle-Explosion"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=Particle-Explosion&theme=dark" width="350"/></a>
+        <a href="https://github.com/Spacerulerwill/ChatApp"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=ChatApp&theme=dark" width="350"/></a>
 </p>                                                                                                                                               
 
 <h3 align="center">Technology Stack</h3>
@@ -28,9 +30,7 @@ I am mostly a backend programmer. I love scripting, automation, data science and
     <a href="https://www.google.xom">
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
         <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-        <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>                                                       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>                                                   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     </a>
                                                                                                                                             
