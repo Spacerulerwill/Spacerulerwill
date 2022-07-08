@@ -20,6 +20,8 @@ I am mostly a backend programmer. I love scripting, automation, data science and
     <a href="https://github.com/Spacerulerwill/YT-WAV"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=YT-WAV&theme=dark" width="350"/></a>
         <a href="https://github.com/Spacerulerwill/Algorithm-Visualiser"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=Algorithm-Visualiser&theme=dark" width="350"/></a>
         <a href="https://github.com/Spacerulerwill/1.19-Mod"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=1.19-Mod&theme=dark" width="350"/></a>
+        <a href="https://github.com/Spacerulerwill/bitskins.py"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=bitskins.py&theme=dark" width="350"/></a>
+        <a href="https://github.com/Spacerulerwill/CSGO-Case-Bot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=CSGO-Case-Bot&theme=dark" width="350"/></a>
 </p>                                                                                                                                               
 
 <h3 align="center">Technology Stack</h3>
