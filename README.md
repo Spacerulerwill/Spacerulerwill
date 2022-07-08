@@ -18,8 +18,8 @@ I am mostly a backend programmer. I love scripting, automation, data science and
     <a href="https://github.com/Spacerulerwill/pymatrixop"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=pymatrixop&theme=dark" width="350"/></a>
     <a href="https://github.com/Spacerulerwill/pytermtables"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=pytermtables&theme=dark" width="350"/></a>
     <a href="https://github.com/Spacerulerwill/YT-WAV"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=YT-WAV&theme=dark" width="350"/></a>
-        <a href="https://github.com/Spacerulerwill/Particle-Explosion"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=Particle-Explosion&theme=dark" width="350"/></a>
-        <a href="https://github.com/Spacerulerwill/ChatApp"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=ChatApp&theme=dark" width="350"/></a>
+        <a href="https://github.com/Spacerulerwill/Algorithm-Visualiser"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=Algorithm-Visualiser&theme=dark" width="350"/></a>
+        <a href="https://github.com/Spacerulerwill/1.19-Mod"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Spacerulerwill&repo=1.19-Mod&theme=dark" width="350"/></a>
 </p>                                                                                                                                               
 
 <h3 align="center">Technology Stack</h3>
