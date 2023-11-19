@@ -7,7 +7,7 @@
 - 📫 Reach me: williamdredding@gmail.com
 - ⚡️ Fun fact: I still hate myself
 ---
-<img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spacerulerwill&theme=onedark&layout=compact">
+<img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spacerulerwill&theme=onedark&layout=compact&langs_count=8">
 
 <p align="left">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
