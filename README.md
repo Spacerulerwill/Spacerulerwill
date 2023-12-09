@@ -2,7 +2,7 @@
 
 #### I'm an A level computer science student.
 
-- 🏢 I'm currently working on my [**Minecraft Clone**](https://github.com/Spacerulerwill/Minecraft-Clone)
+- 🏢 I'm currently doing something probably
 - ⚙️ I use **python**, **c++** and **go**
 - 📫 Reach me: williamdredding@gmail.com
 - ⚡️ Fun fact: I dislike javascript
