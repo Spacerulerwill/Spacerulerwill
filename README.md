@@ -2,8 +2,8 @@
 
 #### I'm an A level computer science student.
 
-- 🏢 I'm currently doing something probably
-- ⚙️ I use **python**, **c++** and **go**
+- 🏢 I'm currently working at [NBI Parnership LTD](https://www.nbi.ac.uk/facilities/) as a Junior Systems Administrator
+- ⚙️ I use **python**, **c++** and **rust**
 - 📫 Reach me: williamdredding@gmail.com
 - ⚡️ Fun fact: I dislike javascript
 ---
