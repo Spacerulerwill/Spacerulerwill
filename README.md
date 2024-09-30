@@ -2,7 +2,7 @@
 
 #### I'm an A level computer science student.
 
-- 🏢 I'm currently working at [NBI Parnership LTD](https://www.nbi.ac.uk/facilities/) as a Junior Systems Administrator
+- 🏢 I'm currently working at [NBI Parnership LTD](https://www.nbi.ac.uk/facilities/) as a Support Specialist for research computing
 - ⚙️ I use **python**, **c++** and **rust**
 - 📫 Reach me: williamdredding@gmail.com
 - ⚡️ Fun fact: I dislike javascript
