@@ -4,7 +4,7 @@
 
 - 🏢 I'm currently working at [NBI Parnership LTD](https://www.nbi.ac.uk/facilities/) as a Support Specialist for research computing
 - ⚙️ I use **python**, **c++** and **rust**
-- 📫 Reach me: williamdredding@gmail.com
+- 📫 Reach me: williamdredding@proton.me
 - ⚡️ Fun fact: I dislike javascript
 ---
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spacerulerwill&theme=dark&layout=compact&langs_count=10">
