@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm William Redding
 
-#### I'm an A level computer science student.
-
-- 🏢 I'm currently working at [NBI Parnership LTD](https://www.nbi.ac.uk/facilities/) as a Support Specialist for research computing
+- 🏢 I'm currently working at [NBI Parnership LTD](https://www.nbi.ac.uk/facilities/) as a Sysadmin for Research Computing
 - ⚙️ I use **python**, **c++** and **rust**
 - 📫 Reach me: williamdredding@proton.me
 - ⚡️ Fun fact: I dislike javascript
